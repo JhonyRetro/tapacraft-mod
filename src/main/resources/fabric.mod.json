@@ -1,16 +1,16 @@
 {
 	"schemaVersion": 1,
 	"id": "tapacraft",
-	"version": "${version}",
+	"version": "1.0.0",
 	"name": "TapaCraft",
 	"description": "Introducing spanish gastronomy into Minecraft!",
 	"authors": [
 		"JhonyRetro"
 	],
 	"contact": {
-		"homepage": "${mod_homepage}",
-		"sources": "${mod_github}",
-		"issues": "${mod_github}/issues"
+		"homepage": "https://github.com/JhonyRetro/tapacraft-mod",
+		"sources": "https://github.com/JhonyRetro/tapacraft-mod",
+		"issues": "https://github.com/JhonyRetro/tapacraft-mod/issues"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/tapacraft/icon.png",
